@@ -8,7 +8,7 @@ This repository contains the amazing  projects and researchs of mine.
  Execution of code will popup a window displaying a car with sensors (rectangle) moving automatically from source (right bottom) to destination (top left). We can draw a path for which the car understands the direction to take, the curves it should handle and drives from source to destination. The three buttons that you will find are used to clear the path drawn, save the learnt info of the car and load the information learnt respectively.
 
 
-## [Image mask segmentation](https://github.com/ANANTHMANOJ/Ai_Projs/blob/master/Product%20Recommendation%20Systems.ipynb)
+## [Image mask segmentation](https://github.com/ANANTHMANOJ/Ai_Projs/blob/master/Image_mask_segmentation_Project_CV.ipynb)
 
 
 Predict and apply masks over the faces within images using CNN and image recognition algorithms. In this hands-on project, the goal is to build a system, which includes building a face detector to locate the position of a face in an image and apply a segmentation mask on the face.
