@@ -5,7 +5,7 @@ This repository contains the amazing  projects and researchs of mine.
  Knowlegde of Python and implementation of different libraries like torch,kivy and matplotlib will come to use in this project. Working with Python IDE such as Anaconda/ Jupyter Notebook/ Colab will make you confortable to code and execute it side by side.  
  
  ### Brief
- Execution of code will popup a window displaying a car with sensors (rectangle) moving automatically from source (right bottom) to destination (top left). We can draw a path for which the car understands the direction to take, the curves it should handle and drives from source to destination. The three buttons that you will find are used to clear the path drawn, save the learnt info of the car and load the information learnt respectively.
+ 
 
 
 ## [Sentiment Analysis](https://github.com/ANANTHMANOJ/Ai_Projs/blob/master/Image_mask_segmentation_Project_CV.ipynb)
