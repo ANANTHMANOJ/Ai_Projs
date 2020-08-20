@@ -8,6 +8,24 @@ This repository contains the amazing  projects and researchs of mine.
  Execution of code will popup a window displaying a car with sensors (rectangle) moving automatically from source (right bottom) to destination (top left). We can draw a path for which the car understands the direction to take, the curves it should handle and drives from source to destination. The three buttons that you will find are used to clear the path drawn, save the learnt info of the car and load the information learnt respectively.
 
 
+## [Sentiment Analysis](https://github.com/ANANTHMANOJ/Ai_Projs/blob/master/Image_mask_segmentation_Project_CV.ipynb)
+
+
+The objective of this project is to build a text classification model that analyses the customer's sentiments based on their reviews in the IMDB database. The model uses a complex deep learning model to build an embedding layer followed by a classification algorithm to analyze the sentiment of the customers
+
+### Skills and Tools
+RNN Word embedding LSTM Classification
+
+
+## [Face Recognition](https://github.com/ANANTHMANOJ/Ai_Projs/blob/master/Image_mask_segmentation_Project_CV.ipynb)
+
+
+Face recognition deals with Computer Vision a discipline of Artificial Intelligence and uses techniques of image processing and deep learning. The objective of this project is to build a face recognition system, which includes building a face detector to locate the position of a face in an image and a face identification model to recognize whose face it is by matching it to the existing database of faces.
+
+### Skills and Tools
+Computer Vision, Keras, CNN, Siamese Networks, Triplet loss
+
+
 ## [Image mask segmentation](https://github.com/ANANTHMANOJ/Ai_Projs/blob/master/Image_mask_segmentation_Project_CV.ipynb)
 
 
