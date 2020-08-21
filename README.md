@@ -17,7 +17,7 @@ The objective of this project is to build a text classification model that analy
 RNN Word embedding LSTM Classification
 
 
-## [Face Recognition](https://github.com/ANANTHMANOJ/Ai_Projs/blob/master/Image_mask_segmentation_Project_CV.ipynb)
+## [Face Recognition](https://github.com/ANANTHMANOJ/Ai_Projs/blob/master/Face_Recognition_VGG.ipynb)
 
 
 Face recognition deals with Computer Vision a discipline of Artificial Intelligence and uses techniques of image processing and deep learning. The objective of this project is to build a face recognition system, which includes building a face detector to locate the position of a face in an image and a face identification model to recognize whose face it is by matching it to the existing database of faces.
